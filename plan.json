@@ -1,0 +1,37 @@
+{
+  "timezone": "America/New_York",
+  "posting_time_local": "19:36",
+  "christmas_phase": [
+    {"date": "2026-11-23", "format": "reel", "book": "christmas-stars", "idea": "Look inside: flip through story pictures and coloring pages"},
+    {"date": "2026-11-25", "format": "reel", "book": "enchanted-forest", "idea": "Before/after: Fina the fox coloring page turns into the colored story picture"},
+    {"date": "2026-11-27", "format": "reel", "book": "christmas-stars+enchanted-forest", "idea": "Black Friday: a screen-free Christmas gift idea, both Christmas books"},
+    {"date": "2026-11-28", "format": "carousel", "book": "christmas-stars+enchanted-forest", "idea": "5 screen-free gifts for ages 3-6 (gift guide, books featured)"},
+    {"date": "2026-11-29", "format": "reel", "book": "christmas-stars", "idea": "First Sunday of Advent: the Christmas star story"},
+    {"date": "2026-11-30", "format": "reel", "book": "little-dino", "idea": "Look inside"},
+    {"date": "2026-12-02", "format": "reel", "book": "enchanted-forest", "idea": "Meet the 4 friends: Mila, Fina, Lotti, Nala"},
+    {"date": "2026-12-04", "format": "reel", "book": "unicorns", "idea": "Look inside"},
+    {"date": "2026-12-05", "format": "carousel", "book": "all", "idea": "Stocking stuffers for little artists"},
+    {"date": "2026-12-06", "format": "reel", "book": "christmas-stars", "idea": "Second Sunday of Advent: before/after coloring"},
+    {"date": "2026-12-07", "format": "reel", "book": "little-dino", "idea": "Before/after coloring"},
+    {"date": "2026-12-09", "format": "reel", "book": "enchanted-forest", "idea": "3 reasons kids love it"},
+    {"date": "2026-12-11", "format": "reel", "book": "christmas-stars", "idea": "Bedtime story idea for December evenings"},
+    {"date": "2026-12-12", "format": "carousel", "book": "all", "idea": "Keep kids busy over winter break"},
+    {"date": "2026-12-13", "format": "reel", "book": "unicorns", "idea": "Third Sunday of Advent: before/after coloring"},
+    {"date": "2026-12-14", "format": "reel", "book": "christmas-stars+enchanted-forest", "idea": "Still time to order before Christmas"},
+    {"date": "2026-12-16", "format": "reel", "book": "little-dino", "idea": "3 reasons kids love it"},
+    {"date": "2026-12-18", "format": "reel", "book": "christmas-stars+enchanted-forest", "idea": "Last call before the Amazon Christmas delivery cutoff (check the current cutoff date on the web; never state a date you did not verify)"},
+    {"date": "2026-12-19", "format": "carousel", "book": "all", "idea": "Last-minute gifts for ages 3-6"},
+    {"date": "2026-12-20", "format": "reel", "book": "christmas-stars", "idea": "Fourth Sunday of Advent"},
+    {"date": "2026-12-22", "format": "reel", "book": "enchanted-forest", "idea": "Winter break coloring"},
+    {"date": "2026-12-24", "format": "image", "book": "brand", "idea": "Merry Christmas from Mibblora (warm greeting, all 4 covers small, no hard sell)"},
+    {"date": "2026-12-26", "format": "reel", "book": "little-dino", "idea": "New year, new adventures"}
+  ],
+  "rotation_from_2026-12-27": {
+    "Monday": {"format": "reel", "book": "little-dino"},
+    "Wednesday": {"format": "reel", "book": "unicorns"},
+    "Friday": {"format": "reel", "book": "rotate: little-dino, unicorns (Christmas books only from October on)"},
+    "Saturday": {"format": "carousel", "book": "rotate all live books", "idea": "parent tip (screen-free play, rainy day, travel, quiet time)"},
+    "Sunday": {"format": "reel", "book": "seasonal mix (Valentine -> unicorns, Easter, summer holidays, back to school)"},
+    "other days": "no post"
+  }
+}
