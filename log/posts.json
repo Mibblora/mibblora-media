@@ -31,5 +31,18 @@
   "media_id": null,
   "reel_manual": true,
   "file": "reels/reel1_v3.mp4"
+ },
+ {
+  "date": "2026-11-20",
+  "format": "story",
+  "book": "enchanted-forest",
+  "idea": "Meet Fina",
+  "hook": "Meet Fina",
+  "pages_used": [
+   26
+  ],
+  "caption": null,
+  "media_id": "17956321824299643",
+  "reel_manual": false
  }
 ]

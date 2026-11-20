@@ -16,8 +16,9 @@ Everything on the channel is in ENGLISH. Talk to the owner in German.
    Public URL: https://mibblora.github.io/mibblora-media/<path>
 7. Publish via Windsor instagram: reel -> create_video_post (video_url, caption). Image -> create_image_post. Carousel -> create_carousel_post (2-10 image_urls).
    KNOWN ISSUE (Nov 2026): create_video_post fails with "internal server error" (Windsor support refs 51667833, 51683601). Try the reel once. If it fails: build a 4-6 slide carousel for the same book/idea, publish that instead, and send the finished reel MP4 + caption to the owner so they can upload it by hand.
-8. Append to log/posts.json: date, format, book, idea, hook, pages used, caption, media id or failure, reel_manual (true/false). Commit + push.
-9. Tell the owner in German, short: what was posted (with permalink if known), and if a reel needs manual upload, send the file and the caption ready to copy.
+8. Stories (image only, every posting day, after the feed post): publish 1-2 image stories via Windsor create_story (image_url). JPEG 1080x1920, key content inside y 250-1650 (top/bottom are covered by Instagram UI). Ideas: an inside page or story picture with a short line ("Meet Fina", "Peek inside"), and a teaser for today's post ("New post" + post visual). Same navy/gold style. No stickers or links are possible via the API, so do not write "tap here"; use "New post on our profile" or "Link in bio". Video stories fail like reels: skip them. Render book pages at 300 dpi so story images stay sharp. Save under stories/<date>/ and log them.
+9. Append to log/posts.json: date, format, book, idea, hook, pages used, caption, media id or failure, reel_manual (true/false). Commit + push.
+10. Tell the owner in German, short: what was posted (with permalink if known), and if a reel needs manual upload, send the file and the caption ready to copy.
 
 ## Never
 - Post anything about books not live on amazon.com (not christmas-dreams, not Dino-Spass/German books).
