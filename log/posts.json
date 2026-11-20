@@ -1,1 +1,35 @@
-[]
+[
+ {
+  "date": "2026-11-20",
+  "format": "image",
+  "book": "enchanted-forest",
+  "idea": "Gift post with cover",
+  "hook": "A cozy Christmas gift",
+  "pages_used": [
+   "cover"
+  ],
+  "caption": "A Christmas gift that keeps little hands busy long after the wrapping paper is gone. ...",
+  "media_id": "17937134958142611",
+  "reel_manual": false
+ },
+ {
+  "date": "2026-11-20",
+  "format": "reel",
+  "book": "enchanted-forest",
+  "idea": "Look inside",
+  "hook": "Look inside this Christmas book",
+  "pages_used": [
+   4,
+   5,
+   26,
+   56,
+   32,
+   71,
+   "cover"
+  ],
+  "caption": "Looking for a cozy Christmas gift that isn't another screen? ...",
+  "media_id": null,
+  "reel_manual": true,
+  "file": "reels/reel1_v3.mp4"
+ }
+]
