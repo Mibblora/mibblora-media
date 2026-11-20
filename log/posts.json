@@ -28,9 +28,10 @@
    "cover"
   ],
   "caption": "Looking for a cozy Christmas gift that isn't another screen? ...",
-  "media_id": null,
-  "reel_manual": true,
-  "file": "reels/reel1_v3.mp4"
+  "media_id": "https://www.instagram.com/reel/Df9ewu9jq_I/",
+  "reel_manual": false,
+  "file": "reels/reel1_v3.mp4",
+  "via": "metricool"
  },
  {
   "date": "2026-11-20",
