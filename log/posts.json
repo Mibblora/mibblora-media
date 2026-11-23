@@ -47,5 +47,60 @@
   "media_id": "17956321824299643",
   "reel_manual": false,
   "via": "windsor"
+ },
+ {
+  "date": "2026-11-23",
+  "format": "reel",
+  "book": "christmas-stars",
+  "idea": "Look inside: flip through story pictures and coloring pages",
+  "hook": "The Christmas star lost its glow",
+  "hook_formula": 6,
+  "pages_used": [
+   5,
+   71,
+   8,
+   26,
+   56,
+   48,
+   "cover"
+  ],
+  "caption": "The Christmas star lost its glow. Can four little friends bring it back? ✨\n\nBruno, Pippa, Kimi and Lumi share 4 cozy Christmas stories, plus 40 coloring pages for kids ages 3-6. A sweet screen-free Christmas gift for little readers.\n\nLink in bio 🎄\n\n#christmascoloringbook #kidsbooks #christmasgiftsforkids #coloringbookforkids #screenfreekids",
+  "media_id": "metricool post 439328146 (PENDING, scheduled 2026-11-23 20:00 America/New_York)",
+  "planner_url": "https://app.metricool.com/planner/calendar?blogId=8246366&openWithPostUuid=6460038293352303978",
+  "music": "self-synthesized Deck the Halls, music box + bells",
+  "reel_manual": false,
+  "file": "reels/reel2_christmas_stars_look_inside.mp4",
+  "via": "metricool"
+ },
+ {
+  "date": "2026-11-23",
+  "format": "story",
+  "book": "christmas-stars",
+  "idea": "Meet the four friends",
+  "hook": "Meet Bruno, Pippa, Kimi and Lumi",
+  "pages_used": [
+   71,
+   "cover"
+  ],
+  "caption": null,
+  "media_id": "17916676956560283",
+  "reel_manual": false,
+  "file": "stories/2026-11-23/story_friends.jpg",
+  "via": "windsor"
+ },
+ {
+  "date": "2026-11-23",
+  "format": "story",
+  "book": "christmas-stars",
+  "idea": "Teaser for tonight's reel",
+  "hook": "New reel tonight",
+  "pages_used": [
+   5
+  ],
+  "caption": null,
+  "media_id": "18032991683860125",
+  "reel_manual": false,
+  "file": "stories/2026-11-23/story_teaser.jpg",
+  "via": "windsor"
  }
 ]
