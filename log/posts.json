@@ -64,7 +64,7 @@
    48,
    "cover"
   ],
-  "caption": "The Christmas star lost its glow. Can four little friends bring it back? ✨\n\nBruno, Pippa, Kimi and Lumi share 4 cozy Christmas stories, plus 40 coloring pages for kids ages 3-6. A sweet screen-free Christmas gift for little readers.\n\nLink in bio 🎄\n\n#christmascoloringbook #kidsbooks #christmasgiftsforkids #coloringbookforkids #screenfreekids",
+  "caption": "The Christmas star lost its glow. Can four little friends bring it back? \u2728\n\nBruno, Pippa, Kimi and Lumi share 4 cozy Christmas stories, plus 40 coloring pages for kids ages 3-6. A sweet screen-free Christmas gift for little readers.\n\nLink in bio \ud83c\udf84\n\n#christmascoloringbook #kidsbooks #christmasgiftsforkids #coloringbookforkids #screenfreekids",
   "media_id": "metricool post 439328146 (PENDING, scheduled 2026-11-23 20:00 America/New_York)",
   "planner_url": "https://app.metricool.com/planner/calendar?blogId=8246366&openWithPostUuid=6460038293352303978",
   "music": "self-synthesized Deck the Halls, music box + bells",
@@ -101,6 +101,61 @@
   "media_id": "18032991683860125",
   "reel_manual": false,
   "file": "stories/2026-11-23/story_teaser.jpg",
+  "via": "windsor"
+ },
+ {
+  "date": "2026-11-25",
+  "format": "reel",
+  "book": "enchanted-forest",
+  "idea": "Before/after: Fina the fox coloring page turns into the colored story picture",
+  "hook": "Blank page to cozy story",
+  "hook_formula": 4,
+  "pages_used": [
+   32,
+   26,
+   36,
+   27,
+   64,
+   48,
+   "cover"
+  ],
+  "caption": "Blank page to cozy story. Meet Fina, the little fox with the lantern \ud83e\udd8a\n\nKids color her in, then meet her again in a Christmas story with her friends Mila, Lotti and Nala. 4 cozy stories and 40 coloring pages for ages 3-6, a sweet screen-free Christmas gift.\n\nLink in bio \ud83c\udf84\n\n#christmascoloringbook #coloringbookforkids #christmasgiftsforkids #kidsbooks #screenfreeactivities",
+  "media_id": "metricool post 442231433 (PENDING, scheduled 2026-11-25 20:00 America/New_York)",
+  "planner_url": "https://app.metricool.com/planner/calendar?blogId=8246366&openWithPostUuid=7963324046185743332",
+  "music": "self-synthesized We Wish You a Merry Christmas, celesta/music box + soft bells",
+  "reel_manual": false,
+  "file": "reels/reel3_enchanted_forest_fina_before_after.mp4",
+  "via": "metricool"
+ },
+ {
+  "date": "2026-11-25",
+  "format": "story",
+  "book": "enchanted-forest",
+  "idea": "Before/after teaser for tonight's reel",
+  "hook": "Blank page... to cozy story",
+  "pages_used": [
+   32,
+   26
+  ],
+  "caption": null,
+  "media_id": "18179328619479363",
+  "reel_manual": false,
+  "file": "stories/2026-11-25/story_before_after.jpg",
+  "via": "windsor"
+ },
+ {
+  "date": "2026-11-25",
+  "format": "story",
+  "book": "enchanted-forest",
+  "idea": "Peek inside: Fina coloring page",
+  "hook": "Peek inside",
+  "pages_used": [
+   28
+  ],
+  "caption": null,
+  "media_id": "18147895387508969",
+  "reel_manual": false,
+  "file": "stories/2026-11-25/story_peek_inside.jpg",
   "via": "windsor"
  }
 ]
