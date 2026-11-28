@@ -214,5 +214,60 @@
   "reel_manual": false,
   "file": "stories/2026-11-27/story_peek_inside.jpg",
   "via": "windsor"
+ },
+ {
+  "date": "2026-11-28",
+  "format": "carousel",
+  "book": "christmas-stars+enchanted-forest",
+  "idea": "5 screen-free gifts for ages 3-6 (gift guide, books featured)",
+  "hook": "5 screen-free gifts for ages 3-6",
+  "hook_formula": 3,
+  "pages_used": {
+   "christmas-stars": [
+    22,
+    26,
+    30,
+    "cover"
+   ],
+   "enchanted-forest": [
+    44,
+    70,
+    "cover"
+   ]
+  },
+  "caption": "5 screen-free gifts for ages 3-6 🎁\n\nSwipe for a cozy gift list: two Christmas story and coloring books, chunky crayons, a play dough set and a story-time flashlight. Simple Christmas gifts for kids that keep little hands busy, no tablet needed.\n\nSave this for your Christmas shopping list 🎄\n\n#christmasgiftsforkids #screenfreeplay #kidsbooks #christmascoloringbook #giftsforkids",
+  "media_id": "metricool 445754162 (PENDING, scheduled 2026-11-28 20:00 America/New_York)",
+  "planner_url": "https://app.metricool.com/planner/calendar?blogId=8246366&openWithPostUuid=9010019110187582392",
+  "reel_manual": false,
+  "files": "posts/2026-11-28/01-07*.jpg",
+  "via": "metricool"
+ },
+ {
+  "date": "2026-11-28",
+  "format": "story",
+  "book": "christmas-stars+enchanted-forest",
+  "idea": "Teaser for tonight's gift guide carousel",
+  "hook": "New gift guide",
+  "pages_used": [],
+  "caption": null,
+  "media_id": "18090914375315178",
+  "reel_manual": false,
+  "file": "stories/2026-11-28/story_gift_guide_teaser.jpg",
+  "via": "windsor"
+ },
+ {
+  "date": "2026-11-28",
+  "format": "story",
+  "book": "enchanted-forest",
+  "idea": "Peek inside: sleeping kitten by the window coloring page",
+  "hook": "Peek inside",
+  "pages_used": [
+   60
+  ],
+  "caption": null,
+  "media_id": "18117652727611086",
+  "reel_manual": false,
+  "file": "stories/2026-11-28/story_peek_inside.jpg",
+  "via": "windsor"
  }
 ]
